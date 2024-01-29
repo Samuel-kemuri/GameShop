@@ -71,3 +71,15 @@ p {
 section .store-front {
     margin-right: 34px;
 }
+
+.social-links img {
+    height: 24px;
+}
+
+#contact .container {
+    display: block;
+}
+
+.contact-methods {
+    display: flex;
+}
